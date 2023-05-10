@@ -7,12 +7,6 @@ MENU>RUN|O
 MENU>VDF2TAB|NoSettings.vdfx|NoSettings.tsv|OutputVarsToExport.lst|+!||2020|2050|:NoSettings
 FILE>DELETE|NoSettings.vdfx
 
-SIMULATE>RUNNAME|IRA_ACCII
-SIMULATE>READCIN|IRA_ACCII.cin
-MENU>RUN|O
-MENU>VDF2TAB|IRA_ACCII.vdfx|IRA_ACCII.tsv|OutputVarsToExport.lst|+!||2020|2050|:IRA_ACCII
-FILE>DELETE|IRA_ACCII.vdfx
-
 SIMULATE>RUNNAME|IRA_Moderate_Incentives
 SIMULATE>READCIN|IRA_Moderate_Incentives.cin
 MENU>RUN|O
